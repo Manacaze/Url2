@@ -1,0 +1,7 @@
+Boa noite, espero que esteja bem de Saude, hoje dia 30 de Janeiro, fizemos melhorias no projeto,
+tiveram mudancas na base de dados. e complementamos o processo de ferias que estava em falta.
+
+a enviamos a base de dados recente e o projeto recente.
+
+//////////////////////////////////////////////////////////////
+A segunda pasta, eh o projeto que adquirimos atraves do colega, e o software com nome MySql - WorkBench

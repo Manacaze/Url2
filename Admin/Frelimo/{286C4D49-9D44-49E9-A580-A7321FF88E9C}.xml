@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2017/06/23" author="e.World Technology Ltd.">
+  <project id="{286C4D49-9D44-49E9-A580-A7321FF88E9C}" file="" name="Frelimo" product="PHPMaker" version="13.0" datetime="2017/06/23 11:03:00" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="district" name="district" caption="district" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_cargos" name="frl_cadastro_de_cargos" caption="Cargos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_linguas" name="frl_cadastro_de_linguas" caption="frl cadastro de linguas" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_locais_de_trab" name="frl_cadastro_de_locais_de_trab" caption="frl cadastro de locais de trab" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_localidades" name="frl_cadastro_de_localidades" caption="frl cadastro de localidades" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_ocupacao_profi" name="frl_cadastro_de_ocupacao_profi" caption="Ocupacoes" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_organizacoes" name="frl_cadastro_de_organizacoes" caption="frl cadastro de organizacoes" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_orgaos" name="frl_cadastro_de_orgaos" caption="Orgaoes do Partido" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadastro_de_prov_residente" name="frl_cadastro_de_prov_residente" caption="frl cadastro de prov residente" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_cadstro_de_profissoes" name="frl_cadstro_de_profissoes" caption="Profissoes" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_celula" name="frl_celula" caption="Celulas" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_circulo" name="frl_circulo" caption="Circulos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_estado_civil" name="frl_estado_civil" caption="Estado Civil" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_formacaoacademica" name="frl_formacaoacademica" caption="Formacao Academica" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_func_e_org_pertenceu" name="frl_func_e_org_pertenceu" caption="frl func e org pertenceu" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_funcoes_membro" name="frl_funcoes_membro" caption="Funcoes do Partido" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_paises" name="frl_paises" caption="Paises" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_razoes_de_inactivo" name="frl_razoes_de_inactivo" caption="Razoes do Inactivo" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_sexo" name="frl_sexo" caption="Sexo" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_tipo_de_documento_de_ident" name="frl_tipo_de_documento_de_ident" caption="Tipos de Documentos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_tipo_usuario" name="frl_tipo_usuario" caption="Tipo de Usuario" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_usuario" name="frl_usuario" caption="Usuarios" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_zona" name="frl_zona" caption="Zonas" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sms_distritos" name="sms_distritos" caption="Provincias" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sms_postos_administrativos" name="sms_postos_administrativos" caption="Postos Administrativos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sms_provincias" name="sms_provincias" caption="Provincias" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="frl_usuario_estado" name="frl_usuario_estado" caption="Estado do Usuario" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>

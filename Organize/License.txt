@@ -1,0 +1,48 @@
+/*
+Author: Designmaz
+Author URL: https://designmaz.net
+License: https://www.designmaz.net/licence/
+*/
+----------------------------------
+NOTE : FREQUENTLY ASKED QUESTIONS 
+----------------------------------
+
+*/ What is Designmaz?
+
+	Designmaz covering useful free and premium templates, plugins, tutorials inspiration and tips.
+
+*/ Is Designmaz Templates Really Free?
+
+	Yes, all our templates free to use for both commercial and non-commercial, but you have provide a back link to Designmaz.net which is already included in footer design by Designmaz.net don’t edit or remove it.
+
+*/ I want to Help Designmaz, How can I?
+
+	You can help Designmaz By
+	1. Donate Some $’s, Any Amount your wish (Paypal ID: chungkhoan_vnn@yahoo.com)
+	2. Contribute Design inventory like stock photos, Icons or PSD designs with full rights to Designmaz.net
+
+*/ I want to remove Designmaz.net back link from footer?
+
+	We have two plans for that per template and unlimited.
+	Donate us $10 per template. If you want templates for multiple domains or bulk templates please contact contact@designmaz.com
+
+*/ Will these templates work on iPhone, Android platforms, Tabs like kindle and Ipads?
+
+	Yes, Designmaz templates work with all Smartphones and Tablets. To, support all the devices we are providing bootstrap Responisve designs WEB Template.
+
+*/ What is Web Template?
+
+	WEB template is a responsive design which can be used for desktop users. Users visiting website from desktop browsers can view WEB template
+
+*/ Do I need a separate version for Smartphones and Tablets?
+
+	No, WEB Template is compatible in all web browsers, Smartphones and Tablets. 
+
+*/ Do I need any database?
+
+	No, it is not necessary.
+
+*/ Under which license you are providing these templates?
+
+	Designmaz templates are under Creative Commons Attribution 3.0 unported
+
